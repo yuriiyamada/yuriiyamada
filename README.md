@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yuriiyamada/yuriiyamada/raw/main/assets/github-v2.gif" alt="Hi, I'm Yuri!">
+  <img src="https://github.com/yuriiyamada/yuriiyamada/raw/main/assets/Codesandbox.gif" alt="Hi, I'm Yuri!">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yuri</h1>
